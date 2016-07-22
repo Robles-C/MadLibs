@@ -1,6 +1,6 @@
 import java.io.Console;
  
-public class TreeStory {
+public class madlibs {
     
     public static void main(String[] args) {
         Console console = System.console();
